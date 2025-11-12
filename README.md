@@ -6,11 +6,11 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-Make conflict endeavR class practice
+endeavR class practice
 
 ## Installation
 
-You can install the development version of mypkgr from
+another conflict You can install the development version of mypkgr from
 [GitHub](https://github.com/) with:
 
 ``` r
