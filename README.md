@@ -7,7 +7,7 @@
 
 <!-- badges: end -->
 
-endeavR class practice
+endeavR class practice. Phoebe making conflict.
 
 ## Installation
 

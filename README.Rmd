@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-endeavR class practice
+endeavR class practice. Phoebe making conflict.
 
 ## Installation
 
