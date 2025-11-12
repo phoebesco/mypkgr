@@ -153,6 +153,6 @@ example
 #>         encoding = "UTF-8", catch.aborts = catch.aborts, skip.echo = skips, 
 #>         keep.source = TRUE)
 #> }
-#> <bytecode: 0x5561ff36fb58>
+#> <bytecode: 0x55f371fbf618>
 #> <environment: namespace:utils>
 ```
