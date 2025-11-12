@@ -4,10 +4,9 @@
 # mypkgr
 
 <!-- badges: start -->
-
 <!-- badges: end -->
 
-endeavR class practice
+Make conflict endeavR class practice
 
 ## Installation
 
