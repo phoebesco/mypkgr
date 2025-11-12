@@ -22,7 +22,7 @@ endeavR class practice
 
 ## Installation
 
-another conflict
+another conflict, all good, no change required!
 You can install the development version of mypkgr from [GitHub](https://github.com/) with:
 
 ``` r
