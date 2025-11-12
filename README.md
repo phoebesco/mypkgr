@@ -4,14 +4,16 @@
 # mypkgr
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/phoebesco/mypkgr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/phoebesco/mypkgr/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 endeavR class practice
 
 ## Installation
 
-another conflict You can install the development version of mypkgr from
-[GitHub](https://github.com/) with:
+another conflict, all good, no change required! You can install the
+development version of mypkgr from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("pak")
